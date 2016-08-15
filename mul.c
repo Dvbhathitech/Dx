@@ -7,7 +7,7 @@ int one, two, mul;
 
 printf("Enter first number - ");
 
-scanf("%d",&one);
+scanf("%d",&one);    
 
 printf("Enter second number - ");
 
